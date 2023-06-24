@@ -1,0 +1,2 @@
+screwdriver,10
+nails,20
